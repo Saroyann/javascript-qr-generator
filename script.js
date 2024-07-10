@@ -16,7 +16,7 @@ if (button) {
         if (qrText.value.trim() !== "") {
             generateQR();
         } else {
-            alert("Please enter some text to generate QR code.");
+            alert("Inputan tidak boleh kosong");
         }
     });
 }
