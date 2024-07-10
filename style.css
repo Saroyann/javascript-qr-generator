@@ -43,7 +43,8 @@ body {
     width: 100%;
     height: 50px;
     outline: none;
-    background: #BBE9FF;
+    background: #82A0D8;
+    color: #fff;
     cursor: pointer;
     font-weight: 500;
     margin: 20px 0;
@@ -51,5 +52,5 @@ body {
 }
 
 .container button:hover {
-    background: #7fd7ff;
+    background: #698dd1;
 }
