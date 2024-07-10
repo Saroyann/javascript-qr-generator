@@ -38,6 +38,10 @@ body {
 }
 
 .container button {
-    outline: 0;
-    
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    background: #7e82ff;
+    color: white;
+    cursor: pointer;
 }
