@@ -73,3 +73,14 @@ body {
     margin: 10px auto;
     border: 1px solid #1d1d1d;
 }
+
+.footer {
+    color: white;
+    text-align: center;
+    margin-top: 550px;
+    }
+    
+    .footer .socmed a img {
+        width: 40px;
+        margin-top: 10px;
+    }
